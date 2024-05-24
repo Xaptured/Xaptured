@@ -4,9 +4,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaptured" alt="xaptured" /></a> </p>
 
-- 🔭 I’m currently working on [ESports-Arena](https://github.com/stars/Xaptured/lists/esportsarena)
+- 🔭 I’m currently preparing for AWS certification.
 
-- 🌱 I’m currently exploring **Application Architecture world along with React**
+- 🌱 I’m currently exploring **Application Architecture world along with AWS**
 
 - 💬 Ask me about **JAVA, MySQL, RestAPI, React, Microservices**
 
